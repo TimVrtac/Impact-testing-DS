@@ -1,0 +1,1 @@
+{"responses": ["A1x", "A1y", "A1z"], "impacts": ["F1", "F2", "F3"], "resp_factors": [1.0, 1.0, 1.0], "imp_factors": [1.0, 1.0, 1.0], "progress": {"A1xF1": 1, "A1yF1": 1, "A1zF1": 1, "A1xF2": 1, "A1yF2": 1, "A1zF2": 1, "A1xF3": 1, "A1yF3": 1, "A1zF3": 1}}
